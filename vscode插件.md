@@ -1,0 +1,2 @@
+- Auto Close Tag
+- Auto Rename Tag
